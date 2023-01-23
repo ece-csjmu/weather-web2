@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+    background-image: url(img/IMG_20230117_151423.jpg);
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Steelfish Rg', 'helvetica neue',
+             helvetica, arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
